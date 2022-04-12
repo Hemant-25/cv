@@ -1,0 +1,116 @@
+body{
+    margin:20px 0 0 0;
+    background-color: #CCF2F4;
+    text-align: center;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    line-height: 20%;
+    color: #406882;
+}
+.t-cloud{
+    margin-bottom: 4%;
+}
+.b2-cloud{
+    position: absolute;
+    left: 20%;
+}
+.b-cloud{
+    position: absolute;
+    left: 70%;
+    
+}
+.profile{
+    margin-bottom: 60px;
+}
+.moun{
+    margin-top: 4%;
+}
+.myimg{
+    margin-top: 35px;
+    border-radius: 40px;
+    height: 18%;
+}
+h3{
+    font-size: 20px;
+    font-family: 'Yuji Boku', serif;
+    color: #2C272E;
+}
+
+.skillogo{
+    width: 14%;
+    float: left;
+    margin-left: 30%;
+}
+.skills{
+    margin-bottom: 80px;
+    margin-top: 60px;
+}
+.skillink{
+    margin-right: 25%;
+}
+p{
+    font-size: 110%;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: #406882;
+    border-width: 8px;
+    width: 4%;
+}
+.contact-me{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.bottom-container{
+    background-color: #FEF9EF;
+    padding: 10px;
+}
+.logo1{
+    position: absolute;
+    left: 46%;
+    width: 2%;
+}
+.logo2{
+    position: absolute;
+    left: 52%;
+    width: 2%;
+
+}
+.credits{
+    font-size: 90%;
+    color: #172774;
+    margin-top: 25px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.cont{
+    margin-top: 60px;
+}
+  
